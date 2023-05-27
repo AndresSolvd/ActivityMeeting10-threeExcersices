@@ -29,7 +29,8 @@ public class Split {
 
         System.out.println(str + "\n" + firstSubString + "\n" + secondSubString);
 
-        System.out.println("First String Length: " + firstSubString.length() + "\nSecond String Length: " + secondSubString.length());
+        System.out.println("First String Length: " + firstSubString.length() + "\nSecond String Length: "
+                + secondSubString.length());
     }
 
     public static void splitStream(String str) {
